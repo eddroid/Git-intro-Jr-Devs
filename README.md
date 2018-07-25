@@ -13,6 +13,7 @@ Create or edit a file. Don't forget to save your changes! Here's a example of a 
 mkdir contributing-members
 touch contributing-members/YOUR_USERNAME.txt
 ```
+If you use this example update, replace `YOUR_USERNAME` with your username.
 
 "Stage" your changes:
 ```sh
@@ -41,10 +42,11 @@ Link to your fork (aka copy) of the repo.
 
 If you don't have one, you'll need to create a GitHub account, visit the original page (https://github.com/ejonelunas/Git-intro-Jr-Devs) and click on the `Fork` button in the upper right corner.
 
-Once you have a copy of the repo in your own account, link it to the directory on your computer.
+Once you have a copy of the repo in your own account, link it to the directory on your computer. Replace `YOUR_USERNAME` with your GitHub username.
 ```sh
 git remote add fork https://github.com/YOUR_USERNAME/Git-intro-Jr-Devs.git
 ```
+
 
 Upload your changes to your fork (your copy on GitHub).
 ```sh
