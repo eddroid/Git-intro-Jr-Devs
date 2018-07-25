@@ -59,4 +59,4 @@ When you're done making and uploading your changes, visit your copy of the repo 
 
 Examine the summary of your changes. You are asking for changes you made to your _head fork_ to be added to the original author's  _base fork_. If those changes look correct, click on `Create pull request`. Write a little message explaining why you think this code will be useful to them.
 
-The owner(s) of the repo will receive an email and a message on GitHub indicating that you have made a _pull request_ - a request that they pull your new code into their existing repository. There will be a dedicated page on GitHub where you can talk about the change. If the owner(s) accept the change, they'll _merge_ your code into theirs.
+The owner(s) of the repo will receive an email and a message on GitHub indicating that you have made a _pull request_ - a request that they pull your new code into their existing repository. There will be a dedicated page on GitHub where you can talk about the change (find it at https://github.com/ejonelunas/Git-intro-Jr-Devs/pulls). If the owner(s) accept the change, they'll _merge_ your code into theirs.
