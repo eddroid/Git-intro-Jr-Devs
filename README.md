@@ -8,7 +8,7 @@ git clone https://github.com/ejonelunas/Git-intro-Jr-Devs.git
 cd Git-intro-Jr-Devs
 ```
 
-Create or edit a file. (Don't forget to save!)
+Create or edit a file. Don't forget to save your changes! Here's a example of a possible change.
 ```sh
 mkdir contributing-members
 touch contributing-members/YOUR_USERNAME.txt
@@ -41,7 +41,7 @@ Link to your fork (aka copy) of the repo.
 
 If you don't have one, you'll need to create a GitHub account, visit the original page (https://github.com/ejonelunas/Git-intro-Jr-Devs) and click on the `Fork` button in the upper right corner.
 
-Once you have a copy of the repo in your own account, link it the the directory on your computer.
+Once you have a copy of the repo in your own account, link it to the directory on your computer.
 ```sh
 git remote add fork https://github.com/YOUR_USERNAME/Git-intro-Jr-Devs.git
 ```
@@ -57,4 +57,4 @@ When you're done making and uploading your changes, visit your copy of the repo 
 
 Examine the summary of your changes. You are asking for changes you made to your _head fork_ to be added to the original author's  _base fork_. If those changes look correct, click on `Create pull request`. Write a little message explaining why you think this code will be useful to them.
 
-The owner(s) of the repo will receive an email and a message on GitHub indicating that you have made a "pull request" - a request that they pull your new code into their existing repository. There will be a dedicated page on GitHub where you can talk about the change. If the owner(s) accept the change, they'll _merge_ your code into theirs.
+The owner(s) of the repo will receive an email and a message on GitHub indicating that you have made a _pull request_ - a request that they pull your new code into their existing repository. There will be a dedicated page on GitHub where you can talk about the change. If the owner(s) accept the change, they'll _merge_ your code into theirs.
