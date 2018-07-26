@@ -1,4 +1,4 @@
-# Git-intro-Jr-Devs
+# Jr Devs Meetup: Git Intro 
 
 In the Terminal:
 
